@@ -1,0 +1,219 @@
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\AccesoDatos.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\AccesoDatos.pdb
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\medin\9no Semestre\Desarrollo de apk Empresariales\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\AccesoDatos.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\AccesoDatos.pdb
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\mejia\Downloads\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\AccesoDatos.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\bin\Debug\net7.0\AccesoDatos.pdb
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\mejia\Documents\Fabrizio Moreno Mejia ITL\Empr\Unidad 2\Unidad 2\ApplicacionEscuela\WebApi\obj\Debug\net7.0\ref\WebApi.dll
